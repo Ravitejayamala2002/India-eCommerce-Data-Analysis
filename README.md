@@ -41,7 +41,7 @@ An interactive Power BI dashboard analyzing order trends in the Indian eCommerce
 
 ### 🖼️ Dashboard Preview
 
-(https://github.com/user-attachments/assets/b1a82846-52d2-455e-a847-e2af0adee86c)
+(![image](https://github.com/user-attachments/assets/ac9cb962-455d-4641-873e-041b8457f98d))
 
 ---
 
