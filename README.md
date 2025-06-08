@@ -58,7 +58,7 @@ An interactive Power BI dashboard analyzing order trends in the Indian eCommerce
 
 ### 📁 File
 
-* **Indian eCommerce Orders Data Analysis.pbix** – "C:\Users\rteja\Downloads\Power Bi\Indian eCommerce Orders Data Analysis – Dashboard_\Indian eCommerce Orders Data Analysis.pbix"
+* **Indian eCommerce Orders Data Analysis.pbix** – ["C:\Users\rteja\Downloads\Power Bi\Indian eCommerce Orders Data Analysis – Dashboard_\Indian eCommerce Orders Data Analysis.pbix"](https://github.com/Ravitejayamala2002/India-eCommerce-Data-Analysis/raw/refs/heads/main/Indian%20eCommerce%20Orders%20Data%20Analysis.pbix)
 
 ---
 
