@@ -65,6 +65,6 @@ An interactive Power BI dashboard analyzing order trends in the Indian eCommerce
 ### 👨‍💻 Author
 
 **Raviteja Yamala**
-*Lean Data Analytics Enthusiast*
+*Lean Data Analytics 
 
 ---
